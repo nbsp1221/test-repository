@@ -1,3 +1,3 @@
 # Test Repository
 
-Conflict Test 3
+This is `new` branch.
