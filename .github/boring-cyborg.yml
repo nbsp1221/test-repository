@@ -1,3 +1,5 @@
 labelPRBasedOnFilePath:
   한글:
     - korean/**/*
+  "한글: 띄어쓰기 및 콜론 테스트":
+    - space/**/*
